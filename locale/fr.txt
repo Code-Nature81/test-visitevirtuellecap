@@ -1,5 +1,11 @@
 #: locale=fr
 
+## Action
+
+### URL
+PopupWebFrameBehaviour_2795D909_3AC5_434D_41C7_9B9127DA52A5.url = //www.youtube.com/embed/J0Goq8poZUc?v=J0Goq8poZUc&t=30s
+PopupWebFrameBehaviour_26862F54_3AC3_7FC4_41A8_4C2CB933B551.url = //www.youtube.com/embed/J0Goq8poZUc?v=J0Goq8poZUc&t=30s
+
 ## Hotspot
 
 ### Text
@@ -19,8 +25,8 @@ panorama_3AE8E9C7_3037_A4DF_41AF_6E1A066ABDF2.label = 20231202_172203_891
 video_3F9679F4_304F_E4B1_41AE_86C24F218B7A.label = videosoncap
 
 ### Video
-videolevel_20652FEC_3AC3_5ECB_41CB_EF5E3B70B3F0.url = media/video_3F9679F4_304F_E4B1_41AE_86C24F218B7A_fr.mp4
-videolevel_20652FEC_3AC3_5ECB_41CB_EF5E3B70B3F0.posterURL = media/video_3F9679F4_304F_E4B1_41AE_86C24F218B7A_poster_fr.jpg
+videolevel_210E4006_3ACD_C147_41BB_BD7591A2592A.url = media/video_3F9679F4_304F_E4B1_41AE_86C24F218B7A_fr.mp4
+videolevel_210E4006_3ACD_C147_41BB_BD7591A2592A.posterURL = media/video_3F9679F4_304F_E4B1_41AE_86C24F218B7A_poster_fr.jpg
 
 ### Video Subtitles
 
