@@ -1,0 +1,32 @@
+#: locale=fr
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_2349BA89_305E_A753_41A7_FBE2D86F4AF8.text = VIDEO
+
+## Media
+
+### Image
+imlevel_221439FC_305B_A4B1_41B2_5051043714EF.url = media/panorama_3C891B4D_3036_65D3_41B2_F616ADAB2F66_HS_xi8kxt5m_fr.png
+
+### Title
+panorama_3C891B4D_3036_65D3_41B2_F616ADAB2F66.label = 20231202_172045_707
+panorama_3AD4E4C0_3037_ACD1_41C4_F57BB16AB4C5.label = 20231202_172103_730
+panorama_3AD7FBD9_3037_A4F3_41C2_8ECCDDF2EBD1.label = 20231202_172121_780
+panorama_3AD632D0_3037_A4F1_419B_735A1B7272C2.label = 20231202_172143_926
+panorama_3AE8E9C7_3037_A4DF_41AF_6E1A066ABDF2.label = 20231202_172203_891
+video_3F9679F4_304F_E4B1_41AE_86C24F218B7A.label = videosoncap
+
+### Video
+videolevel_20652FEC_3AC3_5ECB_41CB_EF5E3B70B3F0.url = media/video_3F9679F4_304F_E4B1_41AE_86C24F218B7A_fr.mp4
+videolevel_20652FEC_3AC3_5ECB_41CB_EF5E3B70B3F0.posterURL = media/video_3F9679F4_304F_E4B1_41AE_86C24F218B7A_poster_fr.jpg
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = visite cap
